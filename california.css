@@ -1,0 +1,262 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.first{ 
+    position: fixed;
+}
+.cal{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: 600px;
+    color: rgb(111, 108, 108);
+    margin-bottom: 50px;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+      
+}
+.logo {
+    height: 58px;
+}
+.logo-icon{
+    background-color: #3dffd2;
+    border: #3dffd2 solid 1px;
+    border-radius: 5px;
+    height:58px;
+}
+.label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(110, 110, 110);
+}
+.train{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    background-color: #3dffd2;
+    border: #3dffd2 solid 1px;
+    border-radius: 5px;
+    width: 280px;
+}
+.new{
+    margin-top: 20px;
+    background-color: rgba(192, 185, 185, 0.169);
+    border:   rgba(196, 192, 192, 0.169) solid 1px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    margin-left: 20px;
+}
+.all{
+    display: flex;
+    gap: 120px;
+    font-size: 20px;
+}
+.black{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.color{
+    border: #3dffd2 solid 1px;
+    height: 5px;
+    width: 70%;
+    background-color: #3dffd2;
+}
+.red{
+    border: red solid 1px;
+    height: 5px;
+    width: 30%;
+    background-color: red;
+}
+.fo{
+    display: flex;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.form{
+    display: flex;
+    gap :180px;
+}
+.green{
+    border: #3dffd2 solid 1px;
+    height: 5px;
+    width: 60%;
+    background-color: #3dffd2;
+}
+.blue{
+    border: red solid 1px;
+    height: 5px;
+    width: 40%;
+    background-color: red;
+}
+.blue-red{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.med{
+    display: flex;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.medone{
+    display: flex;
+    gap :150px;
+}
+.blue-green{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.green-red{
+    border: #3dffd2;
+    height: 5px;
+    width: 85%;
+    background-color: #3dffd2;
+}
+.red-green{
+    border: red solid  1px;
+    height: 5px;
+    width: 15%;
+    background-color: red;
+}
+.to{
+    display: flex;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.toyon{
+    display: flex;
+    gap:160px;
+}
+.toyon-color{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blue-color{
+    border: #3dffd2 solid 1px;
+    background-color: #3dffd2;
+    height: 5px;
+    width: 75%;
+}
+.red-color{
+    border: red solid 1px;
+    background-color: red;
+    height: 5px;
+    width: 25%;
+
+}
+.man{
+    display: flex;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.manzanita{
+   display: flex;
+   gap:150px; 
+}
+.red-green-blue{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.green-red-blue{
+    border: #3dffd2 solid 1px;
+    background-color: #3dffd2;
+    height: 5px;
+    width: 82%;
+}
+.green-blue-red{
+    border: red solid 1px;
+    background-color: red;
+    height: 5px;
+    width: 18%;
+}
+.light-blue{
+    margin-top: 400px;
+    margin-left: 20px;
+    font-size: 25px;
+}
+.pragraph{
+    font-size: 25px;
+
+}
+.fifty{
+    color: #3dffd2;
+    font-size: 30px;
+    font-weight: 500px;
+}
+.tew{
+    color: red;
+    font-size: 30px;
+    font-weight: 500px;
+}
+.all-images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: 600px;
+    color: rgb(111, 108, 108);
+    margin-bottom: 50px;
+}
+.images-all{
+    margin-right: 500px;
+}
+.view{
+    margin-left: 250px;
+    height: 40px;
+    width: 100px;
+    border: bisque solid 1px;
+    font-size: 20px;
+
+}
+.co{
+    display: flex;
+    margin-left: 420px;
+    font-size: 50px;
+}
+.correct-pic{
+    margin-left: 400px;
+    display: flex;
+    flex-direction: row;
+    height: 230px;
+    width: 200px;
+    gap:20px;
+}
+.leaf{
+    border-radius: 20px;
+}
+.incorrect{
+    display: flex;
+    margin-left: 420px;
+    font-size: 50px;
+    margin-top: 40px;
+}
+.incorrect-pic{
+    margin-left: 400px;
+    display: flex;
+    flex-direction: row;
+    height: 230px;
+    width: 200px;
+    gap:20px;
+}
+.pic-incrrect{
+     margin-left: 400px;
+    display: flex;
+    flex-direction: row;
+    height: 230px;
+    width: 200px;
+    margin-top: 20px;
+    gap:20px;
+}
